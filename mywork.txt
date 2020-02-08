@@ -1,0 +1,31 @@
+My associate id:
+
+844566
+
+Other team members:
+
+844565 , 844628 , 844576 , 844582
+
+Team lead:
+
+844565
+
+My Role in team:
+
+1. To develop homepage and contact us page
+
+My development files:
+
+1. index.html
+
+2. contact.html
+
+
+I was strong in:
+
+1. HTML
+
+2. Css
+
+3. Bootstrap
+
